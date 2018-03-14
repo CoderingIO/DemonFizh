@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demon Fizh", "Demon Fizh.csproj", "{00DF653D-EB0C-52D4-0521-FD71D92C39DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demon Fizh.Editor", "Demon Fizh.Editor.csproj", "{E4DB986D-2FDD-41F1-1834-1452A58EF147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DF653D-EB0C-52D4-0521-FD71D92C39DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DF653D-EB0C-52D4-0521-FD71D92C39DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DF653D-EB0C-52D4-0521-FD71D92C39DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DF653D-EB0C-52D4-0521-FD71D92C39DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DB986D-2FDD-41F1-1834-1452A58EF147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DB986D-2FDD-41F1-1834-1452A58EF147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DB986D-2FDD-41F1-1834-1452A58EF147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DB986D-2FDD-41F1-1834-1452A58EF147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
